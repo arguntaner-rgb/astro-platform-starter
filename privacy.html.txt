@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Mistik El Falı Gizlilik Politikası</title>
+</head>
+
+<body style="font-family:Arial;max-width:800px;margin:auto;padding:40px;line-height:1.6">
+
+<h1>Mistik El Falı - Gizlilik Politikası</h1>
+
+<p>Son güncelleme: 2026</p>
+
+<h2>Toplanan Veriler</h2>
+<p>
+Uygulama yalnızca kullanıcı tarafından yüklenen avuç içi fotoğraflarını analiz amacıyla kullanır.
+</p>
+
+<h2>Veri Saklama</h2>
+<p>
+Yüklenen fotoğraflar analiz tamamlandıktan sonra saklanmaz.
+</p>
+
+<h2>Veri Paylaşımı</h2>
+<p>
+Kullanıcı verileri üçüncü kişilerle paylaşılmaz.
+</p>
+
+<h2>İletişim</h2>
+<p>
+E-posta: mysticelfaliapp@gmail.com
+</p>
+
+</body>
+</html>

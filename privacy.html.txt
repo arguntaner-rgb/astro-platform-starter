@@ -1,35 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="tr">
 <head>
-<meta charset="UTF-8">
-<title>Mistik El Falı Gizlilik Politikası</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mistik El Falı Gizlilik Politikası</title>
 </head>
+<body style="font-family:Arial, sans-serif; max-width:800px; margin:40px auto; padding:20px; line-height:1.6;">
+  <h1>Mistik El Falı - Gizlilik Politikası</h1>
+  <p><strong>Son güncelleme:</strong> 07.03.2026</p>
 
-<body style="font-family:Arial;max-width:800px;margin:auto;padding:40px;line-height:1.6">
+  <h2>Toplanan Veriler</h2>
+  <p>Uygulama, kullanıcı tarafından yüklenen avuç içi fotoğraflarını yalnızca analiz amacıyla işler.</p>
 
-<h1>Mistik El Falı - Gizlilik Politikası</h1>
+  <h2>Veri Kullanımı</h2>
+  <p>Yüklenen fotoğraflar el falı analizi oluşturmak için kullanılır.</p>
 
-<p>Son güncelleme: 2026</p>
+  <h2>Veri Saklama</h2>
+  <p>Fotoğraflar kalıcı olarak saklanmaz.</p>
 
-<h2>Toplanan Veriler</h2>
-<p>
-Uygulama yalnızca kullanıcı tarafından yüklenen avuç içi fotoğraflarını analiz amacıyla kullanır.
-</p>
+  <h2>Veri Paylaşımı</h2>
+  <p>Kullanıcı verileri üçüncü kişilerle paylaşılmaz.</p>
 
-<h2>Veri Saklama</h2>
-<p>
-Yüklenen fotoğraflar analiz tamamlandıktan sonra saklanmaz.
-</p>
+  <h2>Yaş Sınırı</h2>
+  <p>Uygulama 13 yaş ve üzeri kullanıcılar için tasarlanmıştır.</p>
 
-<h2>Veri Paylaşımı</h2>
-<p>
-Kullanıcı verileri üçüncü kişilerle paylaşılmaz.
-</p>
-
-<h2>İletişim</h2>
-<p>
-E-posta: mysticelfaliapp@gmail.com
-</p>
-
+  <h2>İletişim</h2>
+  <p>E-posta: mysticelfaliapp@gmail.com</p>
 </body>
 </html>
